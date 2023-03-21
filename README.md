@@ -1,4 +1,4 @@
-### Olá, eu sou o Gabrie Lopes
+### Olá, eu sou  Gabrie Lopes
 
 <!--
 **Gabriellopesg9/Gabriellopesg9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
