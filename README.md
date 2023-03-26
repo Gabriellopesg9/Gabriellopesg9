@@ -1,4 +1,4 @@
-### Olá, eu sou  Gabrie Lopes
+### Olá, eu sou  Gabrie Lopes 👨‍🎓🧑‍💻
 
 
 
